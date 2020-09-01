@@ -1,0 +1,53 @@
+[
+ {
+   "name": "London",
+   "latitude": 51.514248,
+   "longitude": -0.093145
+ },
+ {
+   "name": "Leeds",
+   "latitude": 53.8,
+   "longitude": -1.583333
+ },
+ {
+   "name": "Manchester",
+   "latitude": 53.5,
+   "longitude": -2.216667
+ },
+
+ {
+   "name": "Sheffield",
+   "latitude": 53.366667,
+   "longitude": -1.5
+ },
+ {
+   "name": "Glasgow",
+   "latitude": 55.833333,
+   "longitude": -4.25
+ },
+ {
+   "name": "Nottingham",
+   "latitude": 52.966667,
+   "longitude": -1.166667
+ },
+ {
+   "name": "Liverpool",
+   "latitude": 53.416667,
+   "longitude": -3
+ },
+  {
+    "name": "Edinburgh",
+    "latitude": 55.95,
+    "longitude": -3.2
+  },
+  {
+    "name": "Brighton",
+    "latitude": 50.833333,
+    "longitude": -0.15
+  },
+  {
+    "name": "Bradford",
+    "latitude": 53.783333,
+    "longitude": -1.75
+  }
+]
