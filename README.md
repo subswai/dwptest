@@ -26,12 +26,12 @@ If Distance is not provided, This API returns all users within 50 miles of a cit
  Method    | URL                                                | Description
  ----------| ---------------------------------------------------|----------------------------------------------------------------------------------------------
  **_GET_** | **/api/finder/city/{city}/users**                  | Returns all users within 50 miles of a city
- **_GET_** | **/api/finder/city/{city}/users?distance={200}**   | Returns all users within 200 miles of a London
+ **_GET_** | **/api/finder/city/{city}/users?distance={200}**   | Returns all users within 200 miles of a City
  
 Various cities such as London, Leeds, Manchester can be used for API request however there might be no user within the default 50 miles range. Hence request might need _distance_ parameter
 
 ##### How to access API
- You can use either SoapUI / Postman or a simple web browser to access the following APIs. 
+ You can use either SoapUI / Postman or a simple web browser to access the following APIs. Go to your browser's address bar and type in the following URLs once the application is running.
  
  Method    | URL                                                                   | Description
  ----------| ----------------------------------------------------------------------|----------------------------------------------------------------------------------------------
