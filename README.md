@@ -31,7 +31,6 @@ If Distance is not provided, This API returns all users within 50 miles of a cit
 Various cities such as London, Leeds, Manchester can be used for API request however there might be no user within the default 50 miles range. Hence request might need _distance_ parameter
 
 ##### How to access API
-
  You can use either SoapUI / Postman or a simple web browser to access the following APIs. 
  
  Method    | URL                                                                   | Description
